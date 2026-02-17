@@ -1,4 +1,4 @@
-# Database Optimization & Normalization
+# Database Optimization and Normalization
 
 Database design and normalization project developed in SQL Server. The work consisted of transforming denormalized models into an optimized relational schema, covering everything from ERD modeling to the implementation of normalization and denormalization strategies for performance. The technical development includes business logic using Transact-SQL (T-SQL), with the creation of Stored Procedures, Triggers, and Views oriented toward generating management reports and production statistics.
 
